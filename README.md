@@ -1,1 +1,1 @@
-# ml_project
+This repositoy will track the ML group project for ST443. 
